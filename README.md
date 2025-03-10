@@ -21,7 +21,7 @@
 
 ## 📂 프로젝트 폴더 구조
 ```
-📄 이미지_1.png             # 학습 과정 그래프
+📊 이미지_1.png             # 학습 과정 그래프
 📄 hiddenlayer_machine.ipynb   # 주요 코드 및 실행 파일 (Google Colab 환경에서 실행 가능)
 📄 README.md               # 프로젝트 설명 파일
 ```
